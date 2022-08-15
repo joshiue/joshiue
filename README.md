@@ -10,10 +10,10 @@ methodology based on peer-learning and projects.
 
 ### Connect with me:
 
-<a href="https://twitter.com/MatriMariem">
+<a href="https://twitter.com/Joshua_Taiwo4e">
   <img align="left" alt="Joshua_Taiwo4e | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mariem-matri-249620178/">
+<a href="https://www.linkedin.com/in/joshua-taiwo-0678828b/">
   <img align="left" alt="joshua-taiwo-0678828b" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -22,6 +22,12 @@ methodology based on peer-learning and projects.
   
 ### Languages and Tools that I have been learning:
 <p align="center">
+<a href="https://github.com/MatriMariem/holberton-headphones">
+  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</a>
+<a href="https://github.com/MatriMariem/holberton-headphones">
+  <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
@@ -34,14 +40,3 @@ methodology based on peer-learning and projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiue&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshiue&" alt="joshiue" /></p>
-
-
-
-
-<a href="https://github.com/MatriMariem/holberton-headphones">
-  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end">
-
-<a href="https://github.com/MatriMariem/holbertonschool-zero_day">
-  
