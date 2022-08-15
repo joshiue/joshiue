@@ -1,6 +1,9 @@
 ## Hi there 👋 I am Joshua Taiwo
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=joshiue.joshiue) [![Github](https://img.shields.io/github/followers/joshiue?label=Follow&style=social)](https://github.com/joshiue)
+🌱 I’m currently learning ALX SE
+
+-✍️ Email me jaisetock@gmail.com
 
 - I currently work with Html, CSS, Javascript(Node.js| / express,api), C, Python for everything web.
   
@@ -11,5 +14,11 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrhamtaye7&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhamtaye7&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrhamtaye7&" alt="abrhamtaye7" /></p>
