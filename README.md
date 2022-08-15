@@ -8,7 +8,7 @@ stack programming (Front-end & Back-end) using a
 methodology based on peer-learning and projects.
 - ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
 
--### Connect with me:
+### Connect with me:
 
 <a href="https://twitter.com/MatriMariem">
   <img align="left" alt="Joshua_Taiwo4e | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -37,22 +37,6 @@ methodology based on peer-learning and projects.
 
 
 
-### Hello there! 👋
-
-- 🌱 My name is Mariem Matri, I'm a Software engineering student at Holberton School and a Food Process Engineer.
-- ✨ After graduation, I decided to dive into the TECH world.
-- 🌱 I have been studying low-level programming, high-level
-programming, system engineering and devops, and web
-stack programming (Front-end & Back-end) using a
-methodology based on peer-learning and projects.
-- ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
-- 📝 [Here is my Curriculum Vitae](/Software_Engineer_Mariem_Matri.pdf)
-
-### Languages and Tools that I have been learning:
-
-<a href="https://github.com/MatriMariem/holbertonschool-low_level_programming">
-  <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-</a>
 
 <a href="https://github.com/MatriMariem/holberton-headphones">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
