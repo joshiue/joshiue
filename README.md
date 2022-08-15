@@ -18,7 +18,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrhamtaye7&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhamtaye7&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshiue&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiue&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrhamtaye7&" alt="abrhamtaye7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshiue&" alt="joshiue" /></p>
