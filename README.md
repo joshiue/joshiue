@@ -1,10 +1,8 @@
 ## Hi there 👋 I am Joshua Taiwo
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
+![](https://visitor-badge.laobi.icu/badge?page_id=joshiue.joshiue) [![Github](https://img.shields.io/github/followers/joshiue?label=Follow&style=social)](https://github.com/joshiue)
 
 - I currently work with Html(Node.js| / express,api),Python(Flask) for everything web.
-- 
-## My Socials:
   
 ## My Github Stats:
 [![joshiue's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshiue)](https://github.com/joshiue/github-readme-stats)
