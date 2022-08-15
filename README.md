@@ -5,7 +5,7 @@
 - I currently work with Html(Node.js| / express,api),Python(Flask) for everything web.
   
 ## My Github Stats:
-[![joshiue's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshiue)](https://github.com/joshiue/github-readme-stats)
+[![joshiue's GitHub stats](https://github.com/joshiue/github-readme-stats)
 
 ## Languages and Tools:
 <p align="center">
