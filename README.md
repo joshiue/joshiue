@@ -20,7 +20,7 @@ methodology based on peer-learning and projects.
 <br/>
 <br/>
   
-### Languages and Tools that I have been learning:
+### Languages and Tools I have been learning:
 <p align="center">
 <img align="top" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="top" alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
