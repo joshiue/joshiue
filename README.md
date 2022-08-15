@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=joshiue.joshiue) [![Github](https://img.shields.io/github/followers/joshiue?label=Follow&style=social)](https://github.com/joshiue)
 
-- I currently work with Html, CSS, Javascript(Node.js| / express,api),Python(Flask) for everything web.
+- I currently work with Html, CSS, Javascript(Node.js| / express,api),Python for everything web.
   
 ## Languages and Tools:
 <p align="center">
